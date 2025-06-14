@@ -1,0 +1,1 @@
+print("Just created a local repository")
